@@ -216,7 +216,7 @@
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../../ios/**",
+					"$(SRCROOT)/../../ios/Pods/Buglife/**",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -234,7 +234,7 @@
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../../ios/**",
+					"$(SRCROOT)/../../ios/Pods/Buglife/**",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
